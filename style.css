@@ -1,0 +1,34 @@
+body {
+
+    font-family: Poppins, sans-serif;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.welcome-profile {
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 70%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(salmon, tomato);
+    color: white;
+    margin: 10px 20px;
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 700;
+
+}
